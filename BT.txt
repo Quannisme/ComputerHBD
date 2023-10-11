@@ -1,0 +1,4 @@
+Cho ma trận A có kích thước m*n chứa các số nguyên . Hãy tìm ma trận con B của A có kích thước 3x3 sao cho số tích của các số trong ma trận con là lớn nhất . 
+Dữ liệu được lấy ra từ file MATRAN.inp , kết quả ghi ra file MATRAN.out 
++ dòng đầu gồm hai só m , n 
++ m dòng tiếp theo , mỗi dòng n số tương ứng với a[i][j] kết quả ghi ra file gồm 3 dòng , mỗi dòng gồm 3 số là ma trận cần tìm .
